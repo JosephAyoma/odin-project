@@ -6,7 +6,12 @@
             text-align: left center;
             font-weight: bold;
           }*/
-        
+        html {
+            box-sizing: border-box;
+          }
+          *, *:before, *:after {
+            box-sizing: inherit;
+          }
         #Button1
         {
             width: auto;
