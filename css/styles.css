@@ -69,7 +69,7 @@
             flex-direction: row;
             /*align-items: center;*/
             justify-content: center;
-            gap: 0px;
+            width: auto;
             
           }
           /* this selector selects all divs inside of .flex-container */
