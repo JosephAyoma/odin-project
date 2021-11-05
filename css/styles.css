@@ -1,0 +1,173 @@
+ 
+        /*div {
+            background-color:aquamarine;
+            color: white;
+            font-size: 22px;
+            text-align: left center;
+            font-weight: bold;
+          }*/
+        
+        #Button1
+        {
+            width: auto;
+            color: #FFFFFF;
+            font-weight: 700px;
+            background-color: #3399FF;
+            text-align: center;
+            font-size: 24px;
+            padding: 15px;
+            border-radius: 1em;
+        }
+         
+        body{
+            height: auto;
+            width: auto;
+            
+          }
+        .topdiv
+        {
+            background: #1F2937;
+            color: white;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-top: 20px;
+            left: 0;
+            right: 0;           
+
+        }  
+        .topdiv p{
+            font-size: 24px;
+            width: 100%;
+            left: 0;
+        }  
+        .topdiv a{
+            color: #e5e7eb; 
+            font-size: 24px;
+            align-items: right;
+            color: #e5e7eb;
+        } 
+        .headmenu
+        {
+            display: flex;
+            justify-content: right;
+            gap: 20px;
+            flex-direction: row;
+        }
+        .heromain
+        {
+            font-size: 48px;
+            font-weight: bolder;
+            color: #f9faf8;
+        } 
+        img
+        {
+            height: 200px;
+            width: auto;
+        }   
+         
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+            /*align-items: center;*/
+            justify-content: center;
+            gap: 0px;
+            
+          }
+          /* this selector selects all divs inside of .flex-container */
+          .flex-container div {     
+            flex: 1 1 auto; 
+          }
+         
+          .flex-container p{
+              font-size: 24px;
+              color: #f9faf8;
+              text-align: center;
+          }
+          h2{
+              text-align: center;
+              font-weight:bolder;
+          }
+          
+          .container{
+            background:white;
+            margin:auto;
+            
+          }
+          .container-flex {
+            height: auto;
+            padding: auto; 
+            align-items: center;
+            Justify-content:center;  
+            gap: 2em;        
+            display: flex;
+          }
+          
+          .item {
+           border: 4px solid #3399FF; 
+           align-content: center;
+           border-radius: 1em;
+           
+          }
+          .item_desc
+          {                            
+            font-size: 18px;
+            width: 210px;
+            text-align: center;
+            height: auto;
+                                           
+          }     
+          
+          .advert
+          {
+              padding: 30px;
+              margin-top: 10px;
+              background-color:#e5e7eb;
+              display: flex;
+              flex-direction: column;
+          }
+          .advert p
+          {
+              font-size: 28px;
+              font-style: italic;
+              text-align: center;
+              color: #1f2937;
+          }          
+          span{
+            text-align: right;
+            font-size: 36px;
+            font-style: italic;
+            color: #1f2937;
+            font-weight: bold;
+            margin: 0px;
+          }
+          .callforaction
+          {
+              background:#3882f6;
+              padding: 30px;
+              margin: 120px;
+              border-radius: 6px;
+              text-align: justify;
+              color: white;
+
+          }
+          #calButton
+          {
+              border: 2px solid #f9faf8;
+              border-radius: 6px;
+              background: #3882f6;
+              padding: 7px;
+              color: #FFFFFF;
+          }
+          footer{
+              background: #1F2937;
+              color: #FFFFFF;
+              position: fixed;
+              left: 0;
+              bottom: 0;
+              width: 100%;
+              text-align: center;
+              padding: 10px;
+              margin-top: 50px;
+                            
+          }
+   
