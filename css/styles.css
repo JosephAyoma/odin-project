@@ -22,13 +22,7 @@
             font-size: 24px;
             padding: 15px;
             border-radius: 1em;
-        }
-         
-        body{
-            height: auto;
-            width: auto;
-            
-          }
+        } 
         .topdiv
         {
             background: #1F2937;
@@ -95,7 +89,7 @@
           
           .container{
             background:white;
-            margin:auto;
+            /*margin:auto;*/
             
           }
           .container-flex {
