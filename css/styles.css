@@ -32,7 +32,7 @@
             padding-top: 20px;
             top: 0;
             overflow: hidden;
-           width: auto;          
+            width: auto;          
 
         }  
         .topdiv p{
@@ -68,7 +68,7 @@
         .flex-container {
             display: flex;
             flex-direction: row;
-            align-items: center;
+            /*align-items: center;*/
             justify-content: center;
             width: auto;
             
