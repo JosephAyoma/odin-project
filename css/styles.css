@@ -6,7 +6,12 @@
             text-align: left center;
             font-weight: bold;
           }*/
-        body{margin: 0;}
+        body
+        {
+            margin: 0;
+            width: 100%;
+        
+        }
         #Button1
         {
             width: auto;
