@@ -89,6 +89,7 @@
           }
           .container-flex {
             height: auto;
+            width: auto;
             padding: auto; 
             align-items: center;
             Justify-content:center;  
