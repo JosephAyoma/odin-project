@@ -90,8 +90,6 @@
             
           }
           .container-flex {
-            height: auto;
-            width: auto;
             padding: auto; 
             align-items: center;
             Justify-content:center;  
@@ -108,7 +106,7 @@
           .item_desc
           {                            
             font-size: 18px;
-            width: 210px;
+            width: auto;
             text-align: center;
             height: auto;
                                            
