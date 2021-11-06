@@ -1,17 +1,9 @@
  
-        /*div {
-            background-color:aquamarine;
-            color: white;
-            font-size: 22px;
-            text-align: left center;
-            font-weight: bold;
-          }*/
-        body
-        {
-            margin: 0;
-            width: 100%;
         
-        }
+           body
+           {
+             margin: 0px; 
+           }
         #Button1
         {
             width: auto;
@@ -25,14 +17,13 @@
         } 
         .topdiv
         {
-            background: #1F2937;
-            color: white;
-            padding-left: 80px;
-            padding-right: 100px;
-            padding-top: 20px;
-            top: 0;
-            overflow: hidden;
-            width: auto;          
+          background: #1F2937;
+          color: white;
+          padding-left: 80px;
+          padding-right: 100px;
+          padding-top: 20px; 
+          overflow: hidden;
+          width: auto;           
 
         }  
         .topdiv p{
@@ -74,9 +65,9 @@
             
           }
           /* this selector selects all divs inside of .flex-container */
-         /* .flex-container div {     
+          .flex-container div {     
             flex: 1 1 auto; 
-          }*/
+          }
          
           .flex-container p{
               font-size: 24px;
@@ -94,6 +85,7 @@
             
           }
           .container-flex {
+            height: auto;
             padding: auto; 
             align-items: center;
             Justify-content:center;  
@@ -110,7 +102,7 @@
           .item_desc
           {                            
             font-size: 18px;
-            width: auto;
+            width: 210px;
             text-align: center;
             height: auto;
                                            
