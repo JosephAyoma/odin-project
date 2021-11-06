@@ -68,15 +68,15 @@
         .flex-container {
             display: flex;
             flex-direction: row;
-            /*align-items: center;*/
+            align-items: center;
             justify-content: center;
             width: auto;
             
           }
           /* this selector selects all divs inside of .flex-container */
-          .flex-container div {     
+         /* .flex-container div {     
             flex: 1 1 auto; 
-          }
+          }*/
          
           .flex-container p{
               font-size: 24px;
